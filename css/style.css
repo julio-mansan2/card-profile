@@ -63,7 +63,8 @@ p {
 
 .cidade {
     margin: 20px 0px 30px 0px;
-
+    color: #a9a9a9 ;
+    font-weight: 400;
 }
 
 .contadores .numeros {
