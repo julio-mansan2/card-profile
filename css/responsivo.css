@@ -21,16 +21,12 @@
 
     
     .cartao-corpo {
-        width: 330px;
-        height: 330px;
-        border-radius: 10px;
+        display: block;
+        object-fit: cover;
+        max-width: 100%;
     
     }
     
-    .imagem-do-topo {
-        width: 330px;
-        border-radius: 10px 10px 0px 0px;
-    }
 
     .foto-de-perfil {
         width: 85px;
@@ -39,16 +35,8 @@
         top: 60px;
     }
 
-    .cidade {
-        margin: 5px
-    
-    }
 
-    .informacoes {
-        position: relative;
-        bottom: 60px;
-        
-    }
+    
 
     
     .foto-de-perfil {
@@ -58,11 +46,6 @@
         margin: 5px;
     }
 
-    .principal,.cidade {
-
-       margin: 10px;
-
-    }
 
  
 
