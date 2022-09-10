@@ -23,7 +23,7 @@ Este é um desafio de Profile Card proposto pelo site Frontend-Mentor.
 Versão de Desktop
 ````
 
-  <img src="./design/desktop-design.png" alt="design desktop">
+  <img src="src/design/desktop-design.png" alt="design desktop">
 
 <br>
 
@@ -31,7 +31,7 @@ Versão de Desktop
 Versão Mobile
 ````
 
-<img src="./design/mobile-design.png" alt="design mobile"> <br> <br>
+<img src="src/design/mobile-design.png" alt="design mobile"> <br> <br>
 
 ### Link
 
