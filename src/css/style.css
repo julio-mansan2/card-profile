@@ -1,3 +1,5 @@
+
+
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 
 body {
@@ -80,16 +82,24 @@ hr {
 
 .contadores .numeros {
     
-    margin: 25px;
     display: flex;
-    align-items: center;
+    margin-top: 25px;
     align-content: center;
     justify-content: space-around;
+
+}
+
+.contadores .numeros li {
+
+    display: flex;
+    flex-direction: column;
+
 }
 
 .contadores .numeros span {
 
-    font-size: 15px;
+    margin-top: 10px;
+    font-size: 12px;
 
 }
 
